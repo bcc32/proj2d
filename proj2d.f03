@@ -1,6 +1,5 @@
 !!!! proj2d.f03
 !!!! 2D projectile motion calculator
-!!!! Revised 2014-09-14T16:59
 !!!! Aaron Zeng <a2z@mit.edu>
 
 program proj2d
